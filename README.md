@@ -54,7 +54,8 @@ With more accurate data, we can potentially do a prediction using Machine Learni
 
 ## Conclusion
 As from our analysis, it shows that long-term holding of bitcoin can be profitbale. On the other hand, short-term investment can be very risky since the price of bitcoin is volatile comparing to other investment types.
-I wish you all good luck!
+
+Last but not least, if you are already involving in crpytocurrencies or planning to invest in them, I wish you all the best of luck!
 
 
 # Thank you for reading! :)
