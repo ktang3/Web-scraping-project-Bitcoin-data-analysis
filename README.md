@@ -49,7 +49,7 @@ Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=
 
 ## Future improvements
 Since we used monthly data for this project, for future improvements, we may use daily data to obtain more accurate price and volume of Bitcoin.
-Potentially a prediction using Machine Learning can be done as well.
+With more accurate data, we can potentially do a prediction using Machine Learning models as well.
 
 
 ## Conclusion
