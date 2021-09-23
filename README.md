@@ -11,6 +11,7 @@ Our aim is to discover the insight of bitcion value from data in previous years 
 
 Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=1410912000&period2=1629849600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true>
 
+
 ## Libraries used: 
 - BeautifulSoup
 - Selenium
@@ -18,5 +19,24 @@ Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=
 - Pandas
 - Seaborn
 - Matplotlib
+
+
+## Columns
+1. Date
+2. Open
+3. High
+4. Low
+5. Close
+6. Adj close
+7. Volume
+
+
+## Value of bitcoin 2014-2021
+![Value of bitcoin 2014-2021](https://user-images.githubusercontent.com/88356863/134521059-9c958b81-6448-4552-81da-094c1fc1b299.png)
+
+
+
+
+
 
 # Thank you for reading! :)
