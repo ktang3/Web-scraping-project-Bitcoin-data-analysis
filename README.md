@@ -32,11 +32,29 @@ Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=
 
 
 ## Value of bitcoin 2014-2021
-![Value of bitcoin 2014-2021](https://user-images.githubusercontent.com/88356863/134521059-9c958b81-6448-4552-81da-094c1fc1b299.png)
+![Screen Shot 2021-09-23 at 10 01 27 PM](https://user-images.githubusercontent.com/88356863/134521449-33b5c04b-d13b-4c6d-a284-eb1eba5c93df.png)
 
 
+## Volume of bitcoin 2014-2021
+![Screen Shot 2021-09-23 at 10 08 50 PM](https://user-images.githubusercontent.com/88356863/134522728-43d7b332-974e-4c91-b584-be4e253f1647.png)
 
 
+## Correlation 
+![Screen Shot 2021-09-23 at 10 11 15 PM](https://user-images.githubusercontent.com/88356863/134523122-d7e0420b-23c5-42d5-b4e7-ad89cfcff963.png)
+
+
+## Average trading volume each month
+![Screen Shot 2021-09-23 at 10 12 49 PM](https://user-images.githubusercontent.com/88356863/134523465-5349df3d-5b43-479a-a26b-afe3b6710d5b.png)
+
+
+## Future improvements
+Since we used monthly data for this project, for future improvements, we may use daily data to obtain more accurate price and volume of Bitcoin.
+Potentially a prediction using Machine Learning can be done as well.
+
+
+## Conclusion
+As from our analysis, it shows that long-term holding of bitcoin can be profitbale. On the other hand, short-term investment can be very risky since the price of bitcoin is volatile comparing to other investment types.
+I wish you all good luck!
 
 
 # Thank you for reading! :)
