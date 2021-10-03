@@ -30,6 +30,8 @@ Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=
 6. Adj close
 7. Volume
 
+## Webscarping process
+Type in later
 
 ## Value of bitcoin 2014-2021
 ![Screen Shot 2021-09-23 at 10 01 27 PM](https://user-images.githubusercontent.com/88356863/134521449-33b5c04b-d13b-4c6d-a284-eb1eba5c93df.png)
