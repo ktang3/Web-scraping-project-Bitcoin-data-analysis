@@ -11,9 +11,6 @@ Our aim is to scrape data from web and find some insight of bitcion value in pre
 
 ![alt text](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2021/03/17/652592dc-d6f4-4c4b-858c-0f974e812f37_e72b9959.jpg)
 
-Source of our project: <https://finance.yahoo.com/quote/BTC-USD/history?period1=1410912000&period2=1629849600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true>
-
-
 ## Libraries used: 
 - BeautifulSoup
 - Selenium
