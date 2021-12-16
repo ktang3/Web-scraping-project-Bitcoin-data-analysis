@@ -1,6 +1,6 @@
 # Web-scraping-project-Bitcoin-data-analysis
 
-This is my first Data Science project in my life. So it will not be a complicated one, please enjoy:)
+This is my first Data Science project in my life :)
 
 ## Introduction
 Cryptocurrencies have been a trendy topic in recent years, it has more than $2 trillion captial in the market as recorded in August 2021. Which means a huge amount of capital are moving into the crpyto market and people seem to have a stronger confidence than before investing the crpytocurrencies.
@@ -59,4 +59,4 @@ As from our analysis, it shows that long-term holding of bitcoin can be profitba
 Last but not least, if you are already involving in crpytocurrencies or planning to invest in them, I wish you all the best of luck!
 
 
-# Thank you for reading! :)
+# Thank you for reading :)
